@@ -1,0 +1,10 @@
+.googleSignIn {
+    margin: 20px;
+    padding: 10px;
+    color: rgb(19, 117, 253);
+    background-color: rgb(202, 224, 248);
+    font-weight: 500;
+    border: 1px solid rgb(149, 149, 235);
+    border-radius: 5px;
+    cursor: pointer;
+}
